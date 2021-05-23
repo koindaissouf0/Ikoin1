@@ -5,6 +5,6 @@
 - 📫 How to reach me? You can join us on the project and we will collaborate
 
 <!---
-koindaissouf0/koindaissouf0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ikoin  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
